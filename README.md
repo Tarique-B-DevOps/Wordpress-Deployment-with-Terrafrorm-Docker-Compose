@@ -25,7 +25,7 @@
 
 ![Screenshot (163)](https://user-images.githubusercontent.com/86839948/231409473-85db6770-4c77-44da-84a7-293be04f9dfc.jpg)
 
-- Trying The Admin Panel From The IP Address That is Not Allowed :
+- Trying to access Admin Login From The IP Address That is Not Allowed :
 
 ![Screenshot (164)](https://user-images.githubusercontent.com/86839948/231409611-e4263e33-b5d0-413e-951c-ac62aa34140c.jpg)
 
